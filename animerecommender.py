@@ -1,0 +1,2 @@
+"""Get anime list"""
+

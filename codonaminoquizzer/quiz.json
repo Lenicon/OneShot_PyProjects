@@ -1,0 +1,24 @@
+[
+    {"codon":["UUU", "UUC"], "amino":"phenylalanine", "abv":"phe"},
+    {"codon":["UUA", "UUG", "CUU", "CUC", "CUA", "CUG"], "amino":"leucine", "abv":"leu"},
+    {"codon":["AUU", "AUC", "AUA"], "amino":"isoleucine", "abv":"ile"},
+    {"codon":["AUG"], "amino":"methionine", "abv":"met"},
+    {"codon":["GUU", "GUC", "GUA", "GUG"], "amino":"valine", "abv":"val"},
+    {"codon":["UCU", "UCC", "UCA", "UCG", "UCG", "AGU", "AGC"], "amino":"serine", "abv":"ser"},
+    {"codon":["CCU", "CCC", "CCA", "CCG"], "amino":"proline", "abv":"pro"},
+    {"codon":["ACU", "ACC", "ACA", "ACG"], "amino":"threonine", "abv":"thr"},
+    {"codon":["GCU", "GCC", "GCA", "GCG"], "amino":"alanine", "abv":"ala"},
+
+    {"codon":["UAU", "UAC"], "amino":"tyrosine", "abv":"tyr"},
+    {"codon":["UAA", "UAG", "UGA"], "amino":"stop", "abv":"stop"},
+    {"codon":["CAU", "CAC"], "amino":"histidine", "abv":"his"},
+    {"codon":["CAA", "CAG"], "amino":"glutamine", "abv":"gln"},
+    {"codon":["AAU", "AAC"], "amino":"asparagine", "abv":"asn"},
+    {"codon":["AAA", "AAG"], "amino":"lysine", "abv":"lys"},
+    {"codon":["GAU", "GAC"], "amino":"aspartic acid", "abv":"asp"},
+    {"codon":["GAA", "GAG"], "amino":"glutamic acid", "abv":"glu"},
+    {"codon":["UGU", "UGC"], "amino":"cysteine", "abv":"cys"},
+    {"codon":["UGG"], "amino":"tryptophan", "abv":"trp"},
+    {"codon":["CGU", "CGC", "CGA", "CGG", "AGA", "AGG"], "amino":"arganine", "abv":"arg"},
+    {"codon":["GGU", "GGC", "GGA", "GGG"], "amino":"glycine", "abv":"gly"}
+]
